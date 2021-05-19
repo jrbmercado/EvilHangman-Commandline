@@ -8,7 +8,7 @@ Hangman but the computer secretly changes the word as you guess to make you lose
 
 
 ## Purpose
-1. Practice implimentation of Greedy Algorithms
+1. Practice implementation of Greedy Algorithms
 2. Use of dictionaries and sets
 3. File handling
 4. Data validation and handling
